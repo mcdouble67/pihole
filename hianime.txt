@@ -1,0 +1,42 @@
+# =========================
+# HiAnime.to - Ads / Popups
+# =========================
+
+# Popups & redirect networks
+0.0.0.0 popads.net
+0.0.0.0 www.popads.net
+0.0.0.0 popcash.net
+0.0.0.0 adsterra.com
+0.0.0.0 www.adsterra.com
+0.0.0.0 adsterra.org
+0.0.0.0 adsterra.me
+0.0.0.0 clickadu.com
+0.0.0.0 hilltopads.net
+0.0.0.0 propellerads.com
+0.0.0.0 onclck.ru
+0.0.0.0 pushwhy.com
+0.0.0.0 bestpush.pw
+0.0.0.0 pushhouse.com
+
+# Tracking / ad delivery
+0.0.0.0 mgid.com
+0.0.0.0 cdn.mgid.com
+0.0.0.0 adskeeper.co.uk
+0.0.0.0 exoclick.com
+0.0.0.0 syndication.exoclick.com
+0.0.0.0 trafficfactory.biz
+
+# Google ads (safe pour HiAnime)
+0.0.0.0 doubleclick.net
+0.0.0.0 googlesyndication.com
+0.0.0.0 googleadservices.com
+
+# Fake play / overlay ads
+0.0.0.0 playstream.media
+0.0.0.0 streamads.site
+0.0.0.0 videoadex.com
+
+# Push notification abuse
+0.0.0.0 notify-service.com
+0.0.0.0 pushwelcome.com
+0.0.0.0 pushnotification.ws
